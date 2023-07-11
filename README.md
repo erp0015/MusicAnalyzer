@@ -13,7 +13,7 @@ We can compare this to a contemporary christian song such as Defender by the ban
 
 
 
-Here are a couple more examples to get a feel for some of the extremes. Eminem's Rap God has a blistering 100.66 unique words per minute and 609 unique words overall. Those words used 24 and 28 times are "hey" and "jude", respectively. 
+Here are a couple more examples to get a feel for some of the extremes. Eminem's Rap God has a blistering 100.66 unique words per minute and 609 unique words overall.
 
 ![RapGod](https://github.com/erp0015/MusicAnalyzer/assets/124807872/b62593bc-59cb-40dd-9d46-2b1879f9126a)
 
@@ -25,6 +25,6 @@ The Star Spangled Banner is a very unrepetetive song, which I suspect has to do 
 
 
 
-Hey Jude is one of the weirder ones. Despite being over 7 minutes long it has only 84 unique words giving it 11.86 unique words per minute. If you've ever heard Hey Jude before, you can probably guess that outlier word which was used 162 times according to azlyrics.com. 
+Hey Jude is one of the weirder ones. Despite being over 7 minutes long it has only 84 unique words giving it 11.86 unique words per minute. If you've ever heard Hey Jude before, you can probably guess that outlier word which was used 162 times according to azlyrics.com. Those words used 24 and 28 times are "hey" and "jude", respectively. 
 
 ![HeyJude](https://github.com/erp0015/MusicAnalyzer/assets/124807872/eddc3c96-e5f2-499c-be32-e198ae3086bf)
