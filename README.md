@@ -28,3 +28,7 @@ The Star Spangled Banner is a very unrepetetive song, which I suspect has to do 
 Hey Jude is one of the weirder ones. Despite being over 7 minutes long it has only 84 unique words giving it 11.86 unique words per minute. If you've ever heard Hey Jude before, you can probably guess that outlier word which was used 162 times according to azlyrics.com. Those words used 24 and 28 times are "hey" and "jude", respectively. 
 
 ![HeyJude](https://github.com/erp0015/MusicAnalyzer/assets/124807872/eddc3c96-e5f2-499c-be32-e198ae3086bf)
+
+
+
+There are still several things to be done. So far, I've used lyricsFormatter.py to remove the returns in the strings of lyrics that I've copied and pasted from azlyrics.com, but this is slow. I'd like to make a web scraper that takes in a list of songs and fills out the json files for me so that I can analyze a bunch of songs together. I also think it would be helpful to look at the percentage of single use words as well as to remove the top 100 or so most common english language words because regardless of the song, words like "the", "a", and "I" are going to show up a lot. 
