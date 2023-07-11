@@ -13,7 +13,7 @@ We can compare this to a contemporary christian song such as Defender by the ban
 
 
 
-Here are a couple more examples to get a feel for some of the extremes. Eminem's Rap God has a blistering 100.66 unique words per minute and 609 unique words overall. 
+Here are a couple more examples to get a feel for some of the extremes. Eminem's Rap God has a blistering 100.66 unique words per minute and 609 unique words overall. Those words used 24 and 28 times are "hey" and "jude", respectively. 
 
 ![RapGod](https://github.com/erp0015/MusicAnalyzer/assets/124807872/b62593bc-59cb-40dd-9d46-2b1879f9126a)
 
